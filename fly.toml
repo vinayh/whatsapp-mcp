@@ -17,5 +17,5 @@ memory_mb = 256
 
 [mounts]
 source = "whatsapp_mcp"
-destination = "./data"
+destination = "/app/data"
 processes= ["app"]
